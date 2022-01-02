@@ -2,7 +2,7 @@
 
 ### Goal Of Project
 
-  Create architecture to perform ETL on Worldometer Covid data.
+  Create infrastructure to perform ETL on Worldometer Covid data.
   
 ### Data Architecture Plan
 
